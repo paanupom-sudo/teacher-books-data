@@ -1,1 +1,23 @@
 
+{
+  "board": "West Bengal",
+  "class": "9",
+  "subject": "Science",
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Motion",
+      "summary": "Motion means change of position with time."
+    },
+    {
+      "id": 2,
+      "name": "Force",
+      "summary": "Force is push or pull."
+    },
+    {
+      "id": 3,
+      "name": "Energy",
+      "summary": "Energy is the capacity to do work."
+    }
+  ]
+}
